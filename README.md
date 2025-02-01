@@ -15,5 +15,5 @@
 
 🖼️ Generate an Image
 Run the script and enter a prompt:
-```sh
-python src/generate.py
+```bash
+python src/generate_image.py
