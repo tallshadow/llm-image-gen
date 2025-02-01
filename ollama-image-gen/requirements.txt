@@ -1,7 +1,0 @@
-ollama
-diffusers 
-transformers 
-torch 
-torchvision 
-torchaudio 
-pillow
