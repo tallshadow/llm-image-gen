@@ -13,7 +13,7 @@
    git clone https://github.com/tallshadow/ollama-image-gen.git
    cd ollama-image-gen
 
-🖼️ **Clone the repository:**
+🖼️ Generate an Image
 Run the script and enter a prompt:
-    ```bash
-    python src/generate_image.py
+```sh
+python src/generate.py
