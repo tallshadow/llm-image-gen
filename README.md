@@ -4,9 +4,6 @@
 
 ## 📌 Features
 ✅ Generate images using **Stable Diffusion**  
-✅ Simple and easy to use  
-✅ Works on Mac & Linux  
-
 ## 🔧 Installation
 1. **Clone the repository:**
    ```bash
