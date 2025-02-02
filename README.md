@@ -24,4 +24,7 @@ Run the script:
 
 
 
+## Keywords
+**Tags:** `machine-learning` `deep-learning` `mlx` `stable-diffusion` `apple-silicon` `MPS` `Generate-Images`
+
 
