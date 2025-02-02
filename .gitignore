@@ -1,0 +1,46 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.whl
+
+# Ignore environment files
+.env
+.venv/
+ai-image-env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore cache files
+cache/
+*.cache
+*.tensorboard
+
+# Ignore ML model checkpoints and large datasets
+checkpoints/
+*.ckpt
+*.h5
+*.tflite
+*.onnx
+*.mlmodel
+*.safetensors
+
+# Ignore Hugging Face models and dataset cache
+hf_cache/
+datasets/

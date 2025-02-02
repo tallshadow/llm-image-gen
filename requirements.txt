@@ -1,7 +1,6 @@
-ollama
-diffusers 
-transformers 
-torch 
-torchvision 
-torchaudio 
-pillow
+```bash
+mlx
+mlx-lm
+numpy
+Pillow
+tqdm
